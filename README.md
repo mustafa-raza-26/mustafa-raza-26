@@ -49,9 +49,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafa-raza-26\&show_icons=true\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=mustafa123&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-raza-26\&layout=compact\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa123&layout=compact&theme=tokyonight" />
+
+
 
 ---
 
