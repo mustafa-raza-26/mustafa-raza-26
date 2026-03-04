@@ -49,8 +49,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mustafa-raza-26&show_icons=true&theme=tokyonight)
 
 ## 💻 Top Languages
