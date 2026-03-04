@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Mustafa Raza
 
-<!--
-**mustafa-raza-26/mustafa-raza-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Python & MERN Stack Developer
+⚛️ Currently Learning React & Python
+🔥 Supabase Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🌱 I’m currently learning **React.js**
+* 🐍 Planning to master **Python**
+* 🌐 Future Goal: Become a **MERN Stack Developer**
+* 🗄️ I have experience working with **Supabase**
+* 💡 Passionate about building modern web applications
+* 🎯 Focused on becoming a professional Mern Stack Developer
+
+---
+
+## 🚀 Tech Stack
+
+### 👨‍🎨 Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js (Learning)
+
+### 🛠 Backend (Learning Path)
+
+* Node.js
+* Express.js
+* Python
+
+### 🗄 Database
+
+* MongoDB (Learning)
+* Supabase
+* MySQL
+
+### ⚙ Tools
+
+* Git
+* GitHub
+* VS Code
+* Vercel
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [mp2923911@gmail]
+* 💼 LinkedIn: (www.linkedin.com/in/mustafa-raza-b8a12a311)
+* 🌍 Portfolio: (https://mustafa-raza-26.github.io/portfolio)
+
+---
+
+✨ *“Learning today, building tomorrow.”*
