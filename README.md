@@ -23,6 +23,7 @@
 
 * HTML5
 * CSS3
+* Tailwind (Frame Work)
 * JavaScript (ES6+)
 * React.js (Learning)
 
