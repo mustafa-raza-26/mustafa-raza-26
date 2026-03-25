@@ -60,7 +60,7 @@
 
 ## 📫 Connect With Me
 
-* 📧 Email: [mp2923911@gmail]
+* 📧 Email: [mp2923911@gmail.com]
 * 💼 LinkedIn: (www.linkedin.com/in/mustafa-raza-b8a12a311)
 * 🌍 Portfolio: (https://mustafa-raza-26.github.io/portfolio)
 
