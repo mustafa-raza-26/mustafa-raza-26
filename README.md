@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mustafa Raza
 
-🚀 Aspiring Python & MERN Stack Developer
-⚛️ Currently Learning React & Python
+🚀 Aspiring MERN Stack Developer
+⚛️ Currently Learning React
 🔥 Supabase Enthusiast
 
 ---
@@ -9,7 +9,6 @@
 ## 🧑‍💻 About Me
 
 * 🌱 I’m currently learning **React.js**
-* 🐍 Planning to master **Python**
 * 🌐 Future Goal: Become a **MERN Stack Developer**
 * 🗄️ I have experience working with **Supabase**
 * 💡 Passionate about building modern web applications
@@ -31,7 +30,6 @@
 
 * Node.js
 * Express.js
-* Python
 
 ### 🗄 Database
 
