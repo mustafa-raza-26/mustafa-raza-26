@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mustafa Raza
 
-🚀 Aspiring MERN Stack Developer 
+🚀 MERN Stack Developer 
 ⚛️ Currently Learning React
 🔥 Supabase Enthusiast
 
